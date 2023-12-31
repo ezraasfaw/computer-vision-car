@@ -26,6 +26,9 @@ This is a basic implementation and there's room for improvement. Future work may
 
 Please note that this is a student project and is meant for educational purposes. Use it at your own risk. Contributions and suggestions are welcome! 
 
+## License
+This project is licensed under the terms of the MIT license. For more information, please refer to the LICENSE file.
+
 ## Contact
 
 For any queries or suggestions, please contact Ezra-Fikru Asfaw. 
